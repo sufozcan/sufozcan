@@ -22,7 +22,7 @@ I am a 3rd-year Statistics student at Middle East Technical University (METU). M
 
 ### 💻 Software & Database Engineering
 * **[Eventify (PostgreSQL)](https://github.com/sufozcan/Eventify-Project):** A normalized relational database for large-scale event management, featuring complex SQL analytics.
-* **[City Travel Planner (Java OOP)](hhttps://github.com/sufozcan/City-Travel-Planner-Java-OOP-Project-):** A sophisticated console application demonstrating OOP principles (Inheritance, Polymorphism) and JSON persistence.
+* **[City Travel Planner (Java OOP)](https://github.com/sufozcan/City-Travel-Planner-Java-OOP-Project-):** A sophisticated console application demonstrating OOP principles (Inheritance, Polymorphism) and JSON persistence.
 
 ### 📉 Data Visualization & Preprocessing
 * **[Guide for Fashion Brands (Tableau)](https://github.com/sufozcan/Guide-for-Fashion-Brands-):** Interactive dashboard transforming retail data into actionable business insights.
