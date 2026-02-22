@@ -6,7 +6,7 @@ I am a 3rd-year Statistics student at Middle East Technical University (METU). M
 ---
 
 ## 🚀 Technical Toolbox
-* **Languages:** R (Advanced), Python (Intermediate), Java (OOP), SQL (PostgreSQL).
+* **Languages:** R , Python , Java (OOP), SQL (PostgreSQL).
 * **Data Science:** Data Preprocessing, Sampling Techniques, Survey Design, Regression Analysis.
 * **Databases:** Relational Schema Design, Normalization, Advanced SQL Querying.
 * **Visualization:** Tableau, Matplotlib, Seaborn, ggplot2.
