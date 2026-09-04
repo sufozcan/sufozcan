@@ -1,7 +1,7 @@
 # Hi, I'm Yusuf Özcan 👋
 ### Statistics Student @ METU | Data Science & Analytics Enthusiast
 
-I am a 3rd-year Statistics student at Middle East Technical University (METU). My academic journey is built on a strong foundation of statistical theory, which I bridge with modern programming tools like R, Python, SQL, and Java to solve complex data problems.
+I am a 4th-year Statistics student at Middle East Technical University (METU). My academic journey is built on a strong foundation of statistical theory, which I bridge with modern programming tools like R, Python, SQL, and Java to solve complex data problems.
 
 ---
 
