@@ -31,8 +31,8 @@ I am a 4th-year Statistics student at Middle East Technical University (METU). M
 ---
 
 ## 🎓 Education
-* **B.S. in Statistics**, Middle East Technical University (METU) | 2023 - 2027 (Expected)
-* **B.S. in Management Information Systems (AÖF)**, Anadolu University | 2024 – 2027 (Expected)
+* **B.S. in Statistics**, Middle East Technical University (METU) | 2022 - 2027 (Expected)
+* **B.S. in Management Information Systems (AÖF)**, Anadolu University | 2023 – 2027 (Expected)
 
 ## 📫 Contact
 * **Email:** [sufozcan@gmail.com]
